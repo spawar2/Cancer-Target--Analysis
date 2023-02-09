@@ -1,0 +1,158 @@
+File created with bingo (c) on Aug 28, 2015 at 12:31:09 AM
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://36.0:1/data/GO_Biological_Process
+Selected annotation file : bundle://36.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+PTPN18	SRC	PXN	INPPL1	CBLB	CBL	EGFR	CRKL	EPS8	BCR	DOK1	ABL1	RAPGEF1	FYN	GRB2	PLCG1	CRK	FRK	BCAR1	NCK1	
+
+No annotations were retrieved for the following entities:
+
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+7169	9.3212E-14	6.1893E-11	10	219	20	14303	transmembrane receptor protein tyrosine kinase signaling pathway	EPS8|DOK1|SRC|PXN|RAPGEF1|GRB2|CBL|EGFR|BCAR1|NCK1
+7167	8.9883E-12	2.9841E-9	10	346	20	14303	enzyme linked receptor protein signaling pathway	EPS8|DOK1|SRC|PXN|RAPGEF1|GRB2|CBL|EGFR|BCAR1|NCK1
+7173	2.0087E-10	4.4458E-8	5	26	20	14303	epidermal growth factor receptor signaling pathway	EPS8|GRB2|CBL|EGFR|BCAR1
+23052	3.3606E-9	5.5787E-7	17	3131	20	14303	signaling	SRC|PXN|CBLB|CBL|EGFR|CRKL|EPS8|BCR|DOK1|ABL1|RAPGEF1|FYN|GRB2|PLCG1|CRK|BCAR1|NCK1
+7165	7.7272E-9	1.0262E-6	14	1878	20	14303	signal transduction	SRC|PXN|CBLB|EGFR|CRKL|EPS8|BCR|DOK1|ABL1|RAPGEF1|FYN|GRB2|PLCG1|CRK
+7166	1.6026E-8	1.7736E-6	12	1280	20	14303	cell surface receptor linked signaling pathway	EPS8|DOK1|SRC|PXN|RAPGEF1|CBLB|FYN|GRB2|CBL|EGFR|BCAR1|NCK1
+23033	3.3602E-8	3.1874E-6	14	2100	20	14303	signaling pathway	SRC|PXN|CBLB|CBL|EGFR|CRKL|EPS8|DOK1|ABL1|RAPGEF1|FYN|GRB2|BCAR1|NCK1
+23046	4.7697E-8	3.5190E-6	14	2157	20	14303	signaling process	SRC|PXN|CBLB|EGFR|CRKL|EPS8|BCR|DOK1|ABL1|RAPGEF1|FYN|GRB2|PLCG1|CRK
+23060	4.7697E-8	3.5190E-6	14	2157	20	14303	signal transmission	SRC|PXN|CBLB|EGFR|CRKL|EPS8|BCR|DOK1|ABL1|RAPGEF1|FYN|GRB2|PLCG1|CRK
+30036	5.8995E-7	3.9173E-5	6	235	20	14303	actin cytoskeleton organization	EPS8|INPPL1|ABL1|CRK|BCAR1|NCK1
+30029	8.4764E-7	5.1167E-5	6	250	20	14303	actin filament-based process	EPS8|INPPL1|ABL1|CRK|BCAR1|NCK1
+7172	1.0525E-6	5.8239E-5	3	15	20	14303	signal complex assembly	SRC|PXN|NCK1
+50794	1.5753E-6	8.0461E-5	19	6224	20	14303	regulation of cellular process	SRC|PXN|INPPL1|CBLB|CBL|EGFR|CRKL|EPS8|BCR|DOK1|ABL1|RAPGEF1|FYN|GRB2|PLCG1|CRK|FRK|BCAR1|NCK1
+50789	4.0525E-6	1.9220E-4	19	6554	20	14303	regulation of biological process	SRC|PXN|INPPL1|CBLB|CBL|EGFR|CRKL|EPS8|BCR|DOK1|ABL1|RAPGEF1|FYN|GRB2|PLCG1|CRK|FRK|BCAR1|NCK1
+65007	1.1582E-5	5.1270E-4	19	6943	20	14303	biological regulation	SRC|PXN|INPPL1|CBLB|CBL|EGFR|CRKL|EPS8|BCR|DOK1|ABL1|RAPGEF1|FYN|GRB2|PLCG1|CRK|FRK|BCAR1|NCK1
+7265	1.5670E-5	6.5032E-4	4	112	20	14303	Ras protein signal transduction	DOK1|SRC|GRB2|CRKL
+43687	2.2121E-5	8.6403E-4	9	1266	20	14303	post-translational protein modification	BCR|PTPN18|DOK1|SRC|ABL1|FYN|CBL|EGFR|FRK
+7010	2.4356E-5	8.9848E-4	6	448	20	14303	cytoskeleton organization	EPS8|INPPL1|ABL1|CRK|BCAR1|NCK1
+6464	9.8233E-5	3.4330E-3	9	1526	20	14303	protein modification process	BCR|PTPN18|DOK1|SRC|ABL1|FYN|CBL|EGFR|FRK
+10033	1.1489E-4	3.5455E-3	7	869	20	14303	response to organic substance	EPS8|SRC|INPPL1|FYN|GRB2|EGFR|BCAR1
+7243	1.1747E-4	3.5455E-3	5	364	20	14303	intracellular protein kinase cascade	DOK1|SRC|FYN|EGFR|CRKL
+23014	1.1747E-4	3.5455E-3	5	364	20	14303	signal transmission via phosphorylation event	DOK1|SRC|FYN|EGFR|CRKL
+43412	1.4732E-4	4.2530E-3	9	1607	20	14303	macromolecule modification	BCR|PTPN18|DOK1|SRC|ABL1|FYN|CBL|EGFR|FRK
+7015	1.6011E-4	4.4297E-3	3	77	20	14303	actin filament organization	INPPL1|BCAR1|NCK1
+6793	1.9952E-4	5.0324E-3	7	949	20	14303	phosphorus metabolic process	BCR|PTPN18|SRC|ABL1|FYN|EGFR|FRK
+6796	1.9952E-4	5.0324E-3	7	949	20	14303	phosphate metabolic process	BCR|PTPN18|SRC|ABL1|FYN|EGFR|FRK
+6468	2.0463E-4	5.0324E-3	6	657	20	14303	protein amino acid phosphorylation	BCR|SRC|ABL1|FYN|EGFR|FRK
+35466	2.8130E-4	6.6708E-3	7	1003	20	14303	regulation of signaling pathway	BCR|INPPL1|RAPGEF1|CBLB|GRB2|CRK|EGFR
+2684	4.4167E-4	9.9590E-3	4	265	20	14303	positive regulation of immune system process	CBLB|FYN|BCAR1|NCK1
+42221	4.8161E-4	9.9590E-3	8	1464	20	14303	response to chemical stimulus	EPS8|SRC|PXN|INPPL1|FYN|GRB2|EGFR|BCAR1
+9966	4.9267E-4	9.9590E-3	6	773	20	14303	regulation of signal transduction	BCR|INPPL1|RAPGEF1|GRB2|CRK|EGFR
+50852	5.0333E-4	9.9590E-3	2	24	20	14303	T cell receptor signaling pathway	FYN|BCAR1
+1775	5.0804E-4	9.9590E-3	4	275	20	14303	cell activation	CBLB|FYN|EGFR|NCK1
+23051	5.0995E-4	9.9590E-3	6	778	20	14303	regulation of signaling process	BCR|INPPL1|RAPGEF1|GRB2|CRK|EGFR
+16310	5.3859E-4	1.0165E-2	6	786	20	14303	phosphorylation	BCR|SRC|ABL1|FYN|EGFR|FRK
+16477	5.5112E-4	1.0165E-2	4	281	20	14303	cell migration	FYN|EGFR|BCAR1|NCK1
+42110	5.7730E-4	1.0360E-2	3	119	20	14303	T cell activation	CBLB|FYN|NCK1
+32868	6.3576E-4	1.0842E-2	3	123	20	14303	response to insulin stimulus	INPPL1|GRB2|BCAR1
+7264	6.3680E-4	1.0842E-2	4	292	20	14303	small GTPase mediated signal transduction	DOK1|SRC|GRB2|CRKL
+10646	6.6327E-4	1.0969E-2	7	1154	20	14303	regulation of cell communication	BCR|INPPL1|RAPGEF1|CBLB|GRB2|CRK|EGFR
+23034	6.7729E-4	1.0969E-2	7	1158	20	14303	intracellular signaling pathway	DOK1|SRC|ABL1|FYN|GRB2|EGFR|CRKL
+51128	7.1637E-4	1.1067E-2	5	538	20	14303	regulation of cellular component organization	SRC|INPPL1|FYN|CBL|NCK1
+7420	7.3159E-4	1.1067E-2	4	303	20	14303	brain development	BCR|INPPL1|FYN|EGFR
+35556	7.3338E-4	1.1067E-2	6	833	20	14303	intracellular signal transduction	DOK1|SRC|FYN|GRB2|EGFR|CRKL
+51674	8.3602E-4	1.2068E-2	4	314	20	14303	localization of cell	FYN|EGFR|BCAR1|NCK1
+48870	8.3602E-4	1.2068E-2	4	314	20	14303	cell motility	FYN|EGFR|BCAR1|NCK1
+31334	8.9849E-4	1.2694E-2	2	32	20	14303	positive regulation of protein complex assembly	SRC|NCK1
+44419	9.7260E-4	1.3454E-2	4	327	20	14303	interspecies interaction between organisms	SRC|FYN|GRB2|PLCG1
+16043	1.0690E-3	1.4278E-2	10	2562	20	14303	cellular component organization	EPS8|SRC|PXN|INPPL1|ABL1|GRB2|CRK|EGFR|BCAR1|NCK1
+50851	1.0751E-3	1.4278E-2	2	35	20	14303	antigen receptor-mediated signaling pathway	FYN|BCAR1
+8286	1.1374E-3	1.4717E-2	2	36	20	14303	insulin receptor signaling pathway	GRB2|BCAR1
+43623	1.1525E-3	1.4717E-2	3	151	20	14303	cellular protein complex assembly	SRC|PXN|NCK1
+18108	1.3344E-3	1.6315E-2	2	39	20	14303	peptidyl-tyrosine phosphorylation	ABL1|FYN
+44267	1.3516E-3	1.6315E-2	9	2153	20	14303	cellular protein metabolic process	BCR|PTPN18|DOK1|SRC|ABL1|FYN|CBL|EGFR|FRK
+9236	1.3983E-3	1.6315E-2	1	1	20	14303	cobalamin biosynthetic process	CBLB
+115	1.3983E-3	1.6315E-2	1	1	20	14303	regulation of transcription involved in S-phase of mitotic cell cycle	ABL1
+2376	1.4445E-3	1.6315E-2	6	948	20	14303	immune system process	PXN|CBLB|FYN|BCAR1|CRKL|NCK1
+44237	1.4568E-3	1.6315E-2	14	4990	20	14303	cellular metabolic process	PTPN18|SRC|PXN|INPPL1|CBLB|CBL|EGFR|BCR|DOK1|ABL1|FYN|GRB2|PLCG1|FRK
+2429	1.4742E-3	1.6315E-2	2	41	20	14303	immune response-activating cell surface receptor signaling pathway	FYN|BCAR1
+18212	1.4742E-3	1.6315E-2	2	41	20	14303	peptidyl-tyrosine modification	ABL1|FYN
+51341	1.6965E-3	1.8467E-2	2	44	20	14303	regulation of oxidoreductase activity	ABL1|EGFR
+2768	1.7739E-3	1.8998E-2	2	45	20	14303	immune response-regulating cell surface receptor signaling pathway	FYN|BCAR1
+46649	2.0958E-3	2.2079E-2	3	186	20	14303	lymphocyte activation	CBLB|FYN|NCK1
+43434	2.1281E-3	2.2079E-2	3	187	20	14303	response to peptide hormone stimulus	INPPL1|GRB2|BCAR1
+9987	2.4222E-3	2.4417E-2	19	9368	20	14303	cellular process	PTPN18|SRC|PXN|INPPL1|CBLB|CBL|EGFR|CRKL|EPS8|BCR|DOK1|ABL1|FYN|GRB2|PLCG1|CRK|FRK|BCAR1|NCK1
+7155	2.4859E-3	2.4417E-2	5	711	20	14303	cell adhesion	PXN|INPPL1|ABL1|EGFR|BCAR1
+22610	2.5013E-3	2.4417E-2	5	712	20	14303	biological adhesion	PXN|INPPL1|ABL1|EGFR|BCAR1
+2682	2.5296E-3	2.4417E-2	4	424	20	14303	regulation of immune system process	CBLB|FYN|BCAR1|NCK1
+2757	2.6387E-3	2.4417E-2	2	55	20	14303	immune response-activating signal transduction	FYN|BCAR1
+1892	2.7341E-3	2.4417E-2	2	56	20	14303	embryonic placenta development	GRB2|EGFR
+8283	2.7528E-3	2.4417E-2	4	434	20	14303	cell proliferation	EPS8|FYN|EGFR|BCAR1
+9235	2.7948E-3	2.4417E-2	1	2	20	14303	cobalamin metabolic process	CBLB
+10642	2.7948E-3	2.4417E-2	1	2	20	14303	negative regulation of platelet-derived growth factor receptor signaling pathway	INPPL1
+33623	2.7948E-3	2.4417E-2	1	2	20	14303	regulation of integrin activation	SRC
+33625	2.7948E-3	2.4417E-2	1	2	20	14303	positive regulation of integrin activation	SRC
+43006	2.7948E-3	2.4417E-2	1	2	20	14303	activation of phospholipase A2 activity by calcium-mediated signaling	EGFR
+40011	2.8930E-3	2.4948E-2	4	440	20	14303	locomotion	FYN|EGFR|BCAR1|NCK1
+7417	2.9650E-3	2.5240E-2	4	443	20	14303	central nervous system development	BCR|INPPL1|FYN|EGFR
+2764	3.1320E-3	2.6325E-2	2	60	20	14303	immune response-regulating signaling pathway	FYN|BCAR1
+51130	3.4601E-3	2.8719E-2	3	222	20	14303	positive regulation of cellular component organization	SRC|CBL|NCK1
+42129	3.7765E-3	3.0627E-2	2	66	20	14303	regulation of T cell proliferation	CBLB|NCK1
+6928	3.7823E-3	3.0627E-2	4	474	20	14303	cellular component movement	FYN|EGFR|BCAR1|NCK1
+45321	3.9639E-3	3.1611E-2	3	233	20	14303	leukocyte activation	CBLB|FYN|NCK1
+2667	4.1894E-3	3.1611E-2	1	3	20	14303	regulation of T cell anergy	CBLB
+2669	4.1894E-3	3.1611E-2	1	3	20	14303	positive regulation of T cell anergy	CBLB
+50798	4.1894E-3	3.1611E-2	1	3	20	14303	activated T cell proliferation	FYN
+2911	4.1894E-3	3.1611E-2	1	3	20	14303	regulation of lymphocyte anergy	CBLB
+2913	4.1894E-3	3.1611E-2	1	3	20	14303	positive regulation of lymphocyte anergy	CBLB
+50896	4.4653E-3	3.3314E-2	11	3632	20	14303	response to stimulus	EPS8|SRC|PXN|INPPL1|ABL1|CBLB|FYN|GRB2|EGFR|BCAR1|CRKL
+6461	4.8093E-3	3.4998E-2	4	507	20	14303	protein complex assembly	SRC|PXN|GRB2|NCK1
+70271	4.8093E-3	3.4998E-2	4	507	20	14303	protein complex biogenesis	SRC|PXN|GRB2|NCK1
+32869	4.8491E-3	3.4998E-2	2	75	20	14303	cellular response to insulin stimulus	GRB2|BCAR1
+45471	4.9760E-3	3.5527E-2	2	76	20	14303	response to ethanol	EPS8|FYN
+42127	5.3181E-3	3.5986E-2	5	848	20	14303	regulation of cell proliferation	INPPL1|CBLB|EGFR|FRK|NCK1
+19538	5.3427E-3	3.5986E-2	9	2611	20	14303	protein metabolic process	BCR|PTPN18|DOK1|SRC|ABL1|FYN|CBL|EGFR|FRK
+46777	5.3658E-3	3.5986E-2	2	79	20	14303	protein amino acid autophosphorylation	FYN|EGFR
+48143	5.5821E-3	3.5986E-2	1	4	20	14303	astrocyte activation	EGFR
+32957	5.5821E-3	3.5986E-2	1	4	20	14303	inositol trisphosphate metabolic process	INPPL1
+10640	5.5821E-3	3.5986E-2	1	4	20	14303	regulation of platelet-derived growth factor receptor signaling pathway	INPPL1
+70141	5.5821E-3	3.5986E-2	1	4	20	14303	response to UV-A	EGFR
+46642	5.5821E-3	3.5986E-2	1	4	20	14303	negative regulation of alpha-beta T cell proliferation	CBLB
+32431	5.5821E-3	3.5986E-2	1	4	20	14303	activation of phospholipase A2 activity	EGFR
+50966	5.5821E-3	3.5986E-2	1	4	20	14303	detection of mechanical stimulus involved in sensory perception of pain	FYN
+71375	5.9068E-3	3.7713E-2	2	83	20	14303	cellular response to peptide hormone stimulus	GRB2|BCAR1
+51056	6.1022E-3	3.8589E-2	3	272	20	14303	regulation of small GTPase mediated signal transduction	BCR|RAPGEF1|CRK
+1890	6.4719E-3	4.0246E-2	2	87	20	14303	placenta development	GRB2|EGFR
+48149	6.9730E-3	4.0246E-2	1	5	20	14303	behavioral response to ethanol	EPS8
+43569	6.9730E-3	4.0246E-2	1	5	20	14303	negative regulation of insulin-like growth factor receptor signaling pathway	INPPL1
+35413	6.9730E-3	4.0246E-2	1	5	20	14303	positive regulation of catenin protein nuclear translocation	EGFR
+2664	6.9730E-3	4.0246E-2	1	5	20	14303	regulation of T cell tolerance induction	CBLB
+2666	6.9730E-3	4.0246E-2	1	5	20	14303	positive regulation of T cell tolerance induction	CBLB
+32430	6.9730E-3	4.0246E-2	1	5	20	14303	positive regulation of phospholipase A2 activity	EGFR
+48011	6.9730E-3	4.0246E-2	1	5	20	14303	nerve growth factor receptor signaling pathway	BCAR1
+31657	6.9730E-3	4.0246E-2	1	5	20	14303	regulation of cyclin-dependent protein kinase activity involved by G1/S	EGFR
+31659	6.9730E-3	4.0246E-2	1	5	20	14303	positive regulation of cyclin-dependent protein kinase activity involved in G1/S	EGFR
+48518	7.0310E-3	4.0246E-2	8	2208	20	14303	positive regulation of biological process	SRC|ABL1|CBLB|FYN|CBL|EGFR|BCAR1|NCK1
+50670	7.3638E-3	4.1791E-2	2	93	20	14303	regulation of lymphocyte proliferation	CBLB|NCK1
+32944	7.5176E-3	4.1947E-2	2	94	20	14303	regulation of mononuclear cell proliferation	CBLB|NCK1
+43254	7.5176E-3	4.1947E-2	2	94	20	14303	regulation of protein complex assembly	SRC|NCK1
+70663	7.6729E-3	4.2457E-2	2	95	20	14303	regulation of leukocyte proliferation	CBLB|NCK1
+2253	7.8296E-3	4.2966E-2	2	96	20	14303	activation of immune response	FYN|BCAR1
+60670	8.3620E-3	4.4777E-2	1	6	20	14303	branching involved in embryonic placenta morphogenesis	GRB2
+60017	8.3620E-3	4.4777E-2	1	6	20	14303	parathyroid gland development	CRKL
+32429	8.3620E-3	4.4777E-2	1	6	20	14303	regulation of phospholipase A2 activity	EGFR
+51329	8.8002E-3	4.6747E-2	2	102	20	14303	interphase of mitotic cell cycle	ABL1|EGFR
+34622	9.2151E-3	4.7599E-2	3	316	20	14303	cellular macromolecular complex assembly	SRC|PXN|NCK1
+51325	9.4758E-3	4.7599E-2	2	106	20	14303	interphase	ABL1|EGFR
+6996	9.5065E-3	4.7599E-2	6	1382	20	14303	organelle organization	EPS8|INPPL1|ABL1|CRK|BCAR1|NCK1
+51205	9.7492E-3	4.7599E-2	1	7	20	14303	protein insertion into membrane	EGFR
+84	9.7492E-3	4.7599E-2	1	7	20	14303	S phase of mitotic cell cycle	ABL1
+2643	9.7492E-3	4.7599E-2	1	7	20	14303	regulation of tolerance induction	CBLB
+2645	9.7492E-3	4.7599E-2	1	7	20	14303	positive regulation of tolerance induction	CBLB
+43647	9.7492E-3	4.7599E-2	1	7	20	14303	inositol phosphate metabolic process	INPPL1
+50858	9.7492E-3	4.7599E-2	1	7	20	14303	negative regulation of antigen receptor-mediated signaling pathway	CBLB
+50860	9.7492E-3	4.7599E-2	1	7	20	14303	negative regulation of T cell receptor signaling pathway	CBLB
+51968	9.7492E-3	4.7599E-2	1	7	20	14303	positive regulation of synaptic transmission, glutamatergic	EGFR
+8152	9.8317E-3	4.7651E-2	14	5959	20	14303	metabolic process	PTPN18|SRC|PXN|INPPL1|CBLB|CBL|EGFR|BCR|DOK1|ABL1|FYN|GRB2|PLCG1|FRK
+51716	9.9984E-3	4.8108E-2	5	986	20	14303	cellular response to stimulus	PXN|ABL1|GRB2|BCAR1|CRKL

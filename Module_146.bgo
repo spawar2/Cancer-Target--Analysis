@@ -1,0 +1,40 @@
+File created with bingo (c) on Sep 2, 2015 at 11:26:41 AM
+
+ontology: namespace
+curator:  bingo
+
+Selected ontology file : bundle://38.0:1/data/GO_Biological_Process
+Selected annotation file : bundle://38.0:1/data/H_sapiens_default
+Discarded evidence codes : 
+Overrepresentation
+Selected statistical test : Hypergeometric test
+Selected correction : Benjamini & Hochberg False Discovery Rate (FDR) correction
+Selected significance level : 0.05
+Testing option : Use whole annotation as reference set
+The selected cluster :
+RAB1A	MIOS	RAB1B	RAB3D	GPS1	CHM	COPS7B	COPS7A	COPS4	COPS3	COPS6	COPS5	COPS2	COPS8	
+
+No annotations were retrieved for the following entities:
+COPS4	MIOS	COPS7B	COPS7A	COPS8	
+
+GO-ID	p-value	corr p-value	x	n	X	N	Description	Genes in test set
+23046	4.7738E-5	3.6758E-3	7	2157	9	14305	signaling process	RAB1A|COPS3|RAB1B|RAB3D|GPS1|COPS2|CHM
+23060	4.7738E-5	3.6758E-3	7	2157	9	14305	signal transmission	RAB1A|COPS3|RAB1B|RAB3D|GPS1|COPS2|CHM
+7165	2.9913E-4	1.5355E-2	6	1878	9	14305	signal transduction	RAB1A|COPS3|RAB1B|RAB3D|GPS1|COPS2
+23052	5.6425E-4	1.6012E-2	7	3131	9	14305	signaling	RAB1A|COPS3|RAB1B|RAB3D|GPS1|COPS2|CHM
+338	6.2915E-4	1.6012E-2	1	1	9	14305	protein deneddylation	COPS5
+7264	6.4548E-4	1.6012E-2	3	292	9	14305	small GTPase mediated signal transduction	RAB1A|RAB1B|RAB3D
+15031	7.8750E-4	1.6012E-2	4	756	9	14305	protein transport	RAB1A|RAB1B|RAB3D|CHM
+45184	8.3179E-4	1.6012E-2	4	767	9	14305	establishment of protein localization	RAB1A|RAB1B|RAB3D|CHM
+35556	1.1359E-3	1.9372E-2	4	833	9	14305	intracellular signal transduction	RAB1A|RAB1B|RAB3D|GPS1
+18125	1.2579E-3	1.9372E-2	1	2	9	14305	peptidyl-cysteine methylation	RAB3D
+8104	1.6557E-3	2.3180E-2	4	921	9	14305	protein localization	RAB1A|RAB1B|RAB3D|CHM
+18344	2.5145E-3	2.9787E-2	1	4	9	14305	protein geranylgeranylation	CHM
+18348	2.5145E-3	2.9787E-2	1	4	9	14305	protein amino acid geranylgeranylation	CHM
+33036	3.3195E-3	3.3854E-2	4	1111	9	14305	macromolecule localization	RAB1A|RAB1B|RAB3D|CHM
+18198	3.7696E-3	3.3854E-2	1	6	9	14305	peptidyl-cysteine modification	RAB3D
+18346	3.7696E-3	3.3854E-2	1	6	9	14305	protein amino acid prenylation	CHM
+23034	3.8648E-3	3.3854E-2	4	1158	9	14305	intracellular signaling pathway	RAB1A|RAB1B|RAB3D|GPS1
+34331	4.3967E-3	3.3854E-2	1	7	9	14305	cell junction maintenance	CHM
+45217	4.3967E-3	3.3854E-2	1	7	9	14305	cell-cell junction maintenance	CHM
+18342	4.3967E-3	3.3854E-2	1	7	9	14305	protein prenylation	CHM
