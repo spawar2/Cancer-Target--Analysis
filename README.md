@@ -5,7 +5,7 @@ Nature Publishing Group NPG Scientific Reports.
 <img width="274" alt="Reports" src="https://github.com/spawar2/Cancer-Target--Analysis/assets/25118302/b542588c-40f6-4a9b-9b10-22b203ed2b15">
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
-
+A side-effect free method for identifying cancer drug targets, MD Ashraf, Shama Mujawar, Shrikant Pawar, and Dr. Lahiri, Publication: Nature Publishing Group: Scientific Reports (Publication date: April 19), collaboration with Dr. Lahiri, Sunway University, Malaysia. IF=4.9.Github, Article link, [Cited times: 18]^^^ DOI: 10.1038/s41598-018-25042-2, Issue: 8, Volume: 1, Pages: 6669.
 https://twitter.com/medrxivpreprint/status/1244669303959494657
 https://twitter.com/outbreaksci/status/1244933905481900032
 https://twitter.com/LondonSkywatch/status/1262698589572288519
