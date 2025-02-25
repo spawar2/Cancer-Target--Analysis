@@ -6,7 +6,7 @@ Nature Publishing Group NPG Scientific Reports.
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
 A side-effect free method for identifying cancer drug targets, MD Ashraf, Shama Mujawar, Shrikant Pawar, and Dr. Lahiri, Publication: Nature Publishing Group: Scientific Reports (Publication date: April 19), collaboration with Dr. Lahiri, Sunway University, Malaysia. IF=4.9.Github, Article link, [Cited times: 18]^^^ DOI: 10.1038/s41598-018-25042-2, Issue: 8, Volume: 1, Pages: 6669. ![download2](https://github.com/user-attachments/assets/2b76e23a-abc9-42f9-b771-ba9fe29732bb)
-
+^^^Georgia State University, College of Arts and Sciences, Department of Computer Science and Biology, Atlanta, United States of America (USA). 
 https://twitter.com/medrxivpreprint/status/1244669303959494657
 https://twitter.com/outbreaksci/status/1244933905481900032
 https://twitter.com/LondonSkywatch/status/1262698589572288519
